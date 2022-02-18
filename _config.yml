@@ -1,1 +1,10 @@
 theme: jekyll-theme-slate
+<html>
+      <head>
+      </head>
+      <body>
+      <audio controls height="100" width="100">
+      <source src="high-SNR sampel1_noisy.wav" type="audio/wav">
+      </audio>
+      </body>
+</html>
