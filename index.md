@@ -23,8 +23,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<audio id="audio" controls="" preload="none">
+<source id="wav" src="https://github.com/orcan369/orcan369.github.io/blob/main/high-SNR%20sampel1_noisy.wav">
+</audio>
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
