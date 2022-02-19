@@ -111,7 +111,7 @@
 		<td class="tg-ihkz"><audio controls=""><source src="./high-SNR sampel2_noisy.wav"></audio></td>
 		<td class="tg-ihkz"><audio controls=""><source src="./high-SNR sampel2_denoised.wav"></audio></td>
 		<td class="tg-ihkz"><audio controls=""><source src="./high-SNR sampel3_noisy.wav"></audio></td>
-                   <td class="tg-ihkz"><audio controls=""><source src="./high-SNR sampel3_denoised.wav"></audio></td>
+                <td class="tg-ihkz"><audio controls=""><source src="./high-SNR sampel3_denoised.wav"></audio></td>
 	  </tr>
 	  
       <tr>
@@ -121,7 +121,7 @@
 		<td class="tg-ihkz"><audio controls=""><source src="./low-SNR sampel2_noisy.wav"></audio></td>
 		<td class="tg-ihkz"><audio controls=""><source src="./low-SNR sampel2_denoised.wav"></audio></td>
 		<td class="tg-ihkz"><audio controls=""><source src="./low-SNR sampel3_noisy.wav"></audio></td>
-                   <td class="tg-ihkz"><audio controls=""><source src="./low-SNR sampel3_denoised.wav"></audio></td>
+                <td class="tg-ihkz"><audio controls=""><source src="./low-SNR sampel3_denoised.wav"></audio></td>
 	  </tr>
 	  
     
